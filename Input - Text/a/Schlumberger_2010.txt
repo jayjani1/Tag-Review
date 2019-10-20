@@ -1,0 +1,37 @@
+~ ~ ARRAY INDUCTION 
+flj ~ GAMMA RAY-SPONTANEOUS POTENTIAL 
+
+~ 0 ~-------------------------------.~~------
+
+
+::;; u:J ., --, SHL: 1547'FEL&Hl62'FWL Elev.: KB. 
+
+:::J l.L Q!S
+
+I 
+
+t--8 m z NW/4SEC. 32T1N-R3W G.L 
+
+..:.. '¢ z 0 
+w on o ~ ;='-----------------'-----D_.F_.___
+
+
+> T""" :Z <(I 
+~ j! B ~ 8 PermanentDatum: __9_ROUNDLEVEL Elev.: 962.00ft 
+"' "' >--"'--' LogMeasuredFrom: KELLYBUSHING 6.00ft 
+
+
+c: ~ Drilling Measured From: KELLY BUSHING 
+o m · 
+~ ~ 'ij S~ API Serial No. I Section I Township I 
+U:: --' 5: 04S-24800 32 1 N. 
+
+Run 1 Run 2 Run 3 Run 4 
+***PLATFORM EXPRESS*** 
+968.00ft 
+962.00ft 
+967.00ft 
+abovePerm.Datum 
+Range 
+3 W. 
+

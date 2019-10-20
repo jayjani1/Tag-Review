@@ -1,0 +1,97 @@
+----------------------------------------
+For Baker Hughes_2001.txt
+Keyword: Casing Record
+
+
+----------------------------------------
+For Baker Hughes_2012.txt
+Keyword: Bit Size
+
+Keyword: MUD
+
+Keyword: MUD
+
+Keyword: SAMPLE
+
+
+----------------------------------------
+For Haliburton_1946.txt
+
+No Keyword
+----------------------------------------
+For Haliburton_1993.txt
+Keyword: Bit Size
+
+Keyword: SAMPLE
+
+
+----------------------------------------
+For Haliburton_2008.txt
+
+
+----------------------------------------
+For Baker Hughes_2012.txt
+Keyword: Bit Size
+
+Keyword: MUD
+
+Keyword: MUD
+
+Keyword: SAMPLE
+
+
+----------------------------------------
+For Haliburton_1946.txt
+
+No Keyword
+----------------------------------------
+For Haliburton_1993.txt
+Keyword: Bit Size
+
+Keyword: SAMPLE
+
+
+----------------------------------------
+For Haliburton_2008.txt
+Keyword: SAMPLE
+
+
+----------------------------------------
+For Reeves_2001.txt
+Keyword: Bit Size
+
+Keyword: SAMPLE
+
+Keyword: Title
+
+
+----------------------------------------
+For Schlumberger_2010.txt
+
+No Keyword
+----------------------------------------
+For Schlumberger_2014.txt
+
+No Keyword
+----------------------------------------
+For Weatherford_2006.txt
+
+No Keyword
+----------------------------------------
+For Weatherford_2011.txt
+Keyword: SAMPLE
+
+
+----------------------------------------
+For Weatherford_2014.txt
+Keyword: Bit Size
+
+Keyword: MUD
+
+Keyword: SAMPLE
+
+
+----------------------------------------
+For Western Atlas_1998.txt
+
+No Keyword

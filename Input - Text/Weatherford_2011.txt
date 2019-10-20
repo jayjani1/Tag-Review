@@ -1,0 +1,65 @@
+~ ~ 
+
+-
+
+~ 
+
+-.
+
+" ' 
+
+
+' -' 
+
+• COMPACT PHOTO DENSITY 
+COMPENSATED NEUTRON 
+Weadalord~ LOG 
+COMPANY RANKEN ENERGY CORPORATION 
+WELL ANNA BELLE 4-13 
+~.FIELD E. ANTIOCH 
+PROVINCE/COUNTY GARVIN e 
+COUNTRY/STATE U.S.A. I OKLAHOMA 
+~ 
+LOCATION 904' FSL & 2084' FWL 
+NW/ NE/4 SE/4 SE/4 
+SEC ITWP I~E other Services 
+13 2N MPD/MDNIMML 
+API Number 35-049-24830 MSS 
+Permit Number 
+Permanent Datum GL, Elevation 908 feet Elevations: feet 
+Log Measured From KB@ 13 FEET above Permanent Datum KB 921.00 
+Drilling Measured From KB DF 919.00 
+GL 908.00 
+Date 31-MAR-2011 
+Run Number ONE 
+Depth Driller 5540.00 feet 
+Depth Logger 5536.00 feet 
+-
+First Reading 5504.00 feet 
+--Last 
+Reading 4400.00 feet 
+Casing Driller 32500 
+-feet 
+-
+Casing Logger 314.00 feet 
+-------Bit 
+Size 7.875 inches 
+Hole Fluid Type GEL 
+Density I Viscosity 9.20 lbiUSg !93.00 CP I ---PH 
+I Fluid Loss 10.50 17.20 mV30Min 
+--Sample 
+Source FLOWLINE 
+Rm @ Measured Temp 0.85@800 ohm-m 
+Rmf@ Measured Temp 0.68@80.0 ohm-m 
+Rmc@ Measured Temp 1.02@ 80.0 ohm-m 
+Source Rmf I Rmc CALC ICALC I 
+Rm@BHT 0.56@124.0 ohm-m 
+Time Since Circulation 6HOURS 
+·-Max 
+Recorded Temp 124.00 deg F 
+Equipment Name COMPACT 
+Equipment I Base 13039 iOKC I 
+Recorded By B. BROWN 
+-
+Witnessed By D. K. SCHMIDT 
+

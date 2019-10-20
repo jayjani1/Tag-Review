@@ -1,0 +1,62 @@
+~'~'" "o"q--Cj='~'s"~")cp'''''~Q.£.£' ' ' 3-'j-J r 
+
+• ARRAY INDUCTION 
+SHALLOW FOCUSED
+
+Weatherlordl< 
+
+ELECTRic LoG 
+
+COMPANY IRON STAR ENERGY, LLC 
+WELL BONIFIELD #3-10 
+FIELD EOLA-ROBBERSON 
+PROVINCE/COUNTY GARVIN 
+
+
+'COUNTRY/STATE U.S.A I OKLAHOMA 
+LOCATION 1840' FSL & 700' FWL of NW-SE-NW-SW 
+SEC 1 0 I TWP 1 N I RGE 3 W Other Services 
+Latitude MDNIMPD CMI 
+Longitude MMR 
+API Number 35-049-25014 MSS 
+Permanent Datum GL, Elevation 959 feet Elevations: feeti 
+Log Measured From KB KB 981.00! 
+D 'II' M eel F KB DF 979.00
+
+n mg easur rom GL 
+
+959_00 
+Date 31-0CT-2014 I 
+Run Number TWO 
+
+1 
+
+Service Order 5580-102011972 
+Depth Driller 11247.00 feet 
+Depth Logger 10619.00 feet 
+First Reading 10616.00 feet 
+Last Reading 2486.00 feet 
+
+
+Casing Dri!!er 2454.00 feet 
+
+Casing Logger 2486.00 feet 
+Bit Size 8.750 inches 
+Hole Fluid Type WBM 
+Density I Viscosity 9.45 lb/USg 177.00 CP I 
+PH I Fluid Loss 8.00 J1.80 mi/30Min I 
+Sample Source MUD TANK 
+Rm@ Measured Temp 0.90 @102.0 ohm-m 
+Rmf@ Measured Temp 0.72 @102.0 ohm-m _ 
+Rmc@ Measured Temp 1.08 @102.0 ohm-m 
+Source Rmf JRmc CALC JCALC I 
+Rm@ BHT 0.56 @163.0 ohm-m 
+Time Since Circulation 6 HOURS 
+Max Recorded Temp 163.00 deg F 
+Equipment/ Base 13145 IOKC I 
+Recorded By J. MONROE \ 
+Witnessed By J. MCCASKILL 
+SALESMAN B.J LAYTON 
+
+
+

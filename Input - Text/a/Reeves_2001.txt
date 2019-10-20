@@ -1,0 +1,146 @@
+--
+COMPACT 
+PHOTO DENSITY 
+
+COMPENSATED NEUTRON 
+Cornpact LOG 
+
+COMPANY THE DEHART COMPANY 
+WELL SIMMS #2 
+FIELD ROBBERSON 
+PROVINCE/COUNTY GARVIN 
+COUNTRY/STATE U.S.A. I OKLAHOMA 
+LOCATION 2310' FSL & 1720' FWL 
+
+E2 I NW4 I NE4 I SE4 
+
+LSD RGE JOther Services 
+, ... __ __ 3W 
+
+MAI/MFE MML 
+API Number 35-049-24311 
+
+Permit Number 
+
+Permanent Datum G.L. , Elevation 1020 feet 
+Eievatlons 
+KB 1024.00 feet
+
+
+Log Measured From K. B. @ 4 FEET above Permanent Datum 
+
+DF 1023.00 feet
+
+Drilling Measured From K.B. 
+
+GL 1020.00 feet
+
+U
+
+-------~----
+
+
+-------------------- 
+---------,-------------
+
+
+Date 
+;30-DEC-2001 
+
+---------______ ___j_ ___ ------- 
+.1 
+
+Run Number ! ONE 
+
+,__ .. ----------..--+ ----... -----·-----I 
+
+Depth Driller ; 1600.00 feet 
+
+----------------··-··-------l --------··--------------· 
+
+Depth Logger ' 1603 00 feet 
+
+-----------------L-----------------------__________l_ 
+
+jOirstRea_dmg _____ 15800_0 ____f_e~!___ 
+Last Reading 600.00 feet
+
+casing Dnffer __.._________i -----------
+
+
+------------~-------------------------· --------t-
+
+Casing Logger , 
+. 
+
+-_-------------------+-·-------------··-.I -------------
+
+
+Bit Size 
+; 7 88 inches 
+
+---------------' ------... ---------~------. ------------· 
+
+Hole Fluid Type . CHEMICAL 
+
+---------------------~ -----------------r:--___________ , 
+
+Density -'Viscosity __ 9 5D_ ~b/USg _J62c00 CP . 
+
+-----:___~}_ . -------l 
+
+PH I Fluid Loss ; 9 50 1 6.50 mi/30Min 
+' 
+
+I 
+
+-------i-------
+
+
+sample source ___ -----,M-LiD Prf---~ ·------
+
+
+_________ l ------------·-· -
+
+
+·----f.---Rm@ 
+Measured Temp I 10.0@ 50.0 ohm-m ' 
+k-n:if (~i)'Meiasured feirri;i 1 so-@fsoa allm-m --
+
+Rmc@ MeasureilTerriPT12.0@5oo---ohm:-m 
+SouiceeRmft Rmc 1C:ACC---TtALC________ ------T -
+
+
+-----------------··------------_L_____"_ ----·-______ 1_ --------· 
+
+Rm @ BHT 6.94 @ 720 ohm-m 
+Time Since C:irc-ui8Tion ::H:;ol.JR's___ ----
+
+
+--------.----+c---.---· -----.... ---
+
+
+-~a_>< RecJ)rcJ_e9 Temp ______J2_2 00 __ deg F 
+Equipment Name I COMPACT 
+Eql.uprnent lBase-----+1059 ---Toi<c 
+
+.-~~=-= ---::---~~~---
+
+
+Recorded BY --------T.J()N-ES ____ c 
+
+
+1 
+-____LBJ L~YTOI'J_ __
+
+----------------------t-1-..--
+
+
+Witnessed By ,J. DEHART 
+
+-----------·-------------
+
+
+Last Title 
+
+
